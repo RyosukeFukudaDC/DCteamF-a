@@ -1,1 +1,1 @@
-# learn rails
+# learn TS & rails
